@@ -1,4 +1,4 @@
-#Connect to Spark server via PuTTy IP: 168.28.188.187, SSH protocol
+#Connect to Spark server via PuTTy
 
 #Start Spark with Python
 
